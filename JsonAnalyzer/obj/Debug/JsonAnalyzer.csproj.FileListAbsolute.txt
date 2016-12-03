@@ -1,0 +1,10 @@
+C:\Users\as\documents\visual studio 2015\Projects\WindowsFormsApplication1\JsonAnalyzer\bin\Debug\JsonAnalyzer.dll
+C:\Users\as\documents\visual studio 2015\Projects\WindowsFormsApplication1\JsonAnalyzer\bin\Debug\JsonAnalyzer.pdb
+C:\Users\as\documents\visual studio 2015\Projects\WindowsFormsApplication1\JsonAnalyzer\obj\Debug\JsonAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\as\documents\visual studio 2015\Projects\WindowsFormsApplication1\JsonAnalyzer\obj\Debug\JsonAnalyzer.dll
+C:\Users\as\documents\visual studio 2015\Projects\WindowsFormsApplication1\JsonAnalyzer\obj\Debug\JsonAnalyzer.pdb
+D:\ROMA\EPAM\JsonValidator\JsonAnalyzer\bin\Debug\JsonAnalyzer.dll
+D:\ROMA\EPAM\JsonValidator\JsonAnalyzer\bin\Debug\JsonAnalyzer.pdb
+D:\ROMA\EPAM\JsonValidator\JsonAnalyzer\obj\Debug\JsonAnalyzer.csprojResolveAssemblyReference.cache
+D:\ROMA\EPAM\JsonValidator\JsonAnalyzer\obj\Debug\JsonAnalyzer.dll
+D:\ROMA\EPAM\JsonValidator\JsonAnalyzer\obj\Debug\JsonAnalyzer.pdb

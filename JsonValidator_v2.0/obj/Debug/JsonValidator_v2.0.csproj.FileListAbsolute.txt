@@ -1,0 +1,16 @@
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\bin\Debug\JsonValidator_v2.0.exe.config
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\bin\Debug\JsonValidator_v2.0.exe
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\bin\Debug\JsonValidator_v2.0.pdb
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\bin\Debug\JsonAnalyzer.dll
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\bin\Debug\JsonAnalyzer.pdb
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2.0.csprojResolveAssemblyReference.cache
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\MainWindow.g.cs
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\App.g.cs
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2.0_MarkupCompile.cache
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2.0_MarkupCompile.lref
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\MainWindow.baml
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2.0.g.resources
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2._0.Properties.Resources.resources
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2.0.csproj.GenerateResource.Cache
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2.0.exe
+D:\ROMA\EPAM\JsonValidator\JsonValidator_v2.0\obj\Debug\JsonValidator_v2.0.pdb
